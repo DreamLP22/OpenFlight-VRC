@@ -1,8 +1,9 @@
 {
   "$schema": "./data_schema.json",
-  "JSON Version": "2.54.0",
-  "JSON Date": "2025-06-10",
+  "JSON Version": "2.55.0",
+  "JSON Date": "2025-06-14",
   "Contributers": [
+    "Dream_LP",
     "ItsFloofy",
     "Daernaro",
     "Darizard",
@@ -1968,6 +1969,18 @@
         ],
         "Weight": 1,
         "WingtipOffset": 2.7
+      }
+    },
+    "Apheli'vali"{ {
+      "Original": {
+        "Name": "Apheli'val",
+        "Creator": "AComfyPillow",
+        "Introducer": "Dream_LP",
+        "Hash": [
+          "1329801700v2"
+        ],
+        "Weight": 1,
+        "WingtipOffset": 4.45 
       }
     }
   }
